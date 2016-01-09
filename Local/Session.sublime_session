@@ -1,0 +1,721 @@
+{
+	"folder_history":
+	[
+		"/var/www/crm2.in-time.cc/resources",
+		"/var/www/crm2.in-time.cc/public",
+		"/var/www/crm2.in-time.cc/database",
+		"/var/www/crm2.in-time.cc/config",
+		"/var/www/crm2.in-time.cc/app",
+		"/var/www/crm2.in-time.cc",
+		"/var/www/sd.nyzix.com/clean laravel 5.2.6",
+		"/var/www/test.nyzix.com",
+		"/var/www/test",
+		"/var/www/sd.nyzix.com/sd",
+		"/var/www",
+		"/home/anton/Dropbox/developing/www/a-musicstudio.com/current/.git",
+		"/home/anton/Dropbox/developing/www/a-musicstudio.com/current",
+		"/home/anton/Dropbox/developing/www"
+	],
+	"last_version": 3083,
+	"last_window_id": 3,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 444.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"border",
+						"border-bottom"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 390.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"snipp",
+						"Snippet: <?php echo $this->… ?>"
+					],
+					[
+						"enable",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"ena",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"LiveReload: Enable/disable plugins",
+						"LiveReload: Enable/disable plug-ins"
+					]
+				],
+				"width": 521.0
+			},
+			"console":
+			{
+				"height": 68.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/var/www/sd.nyzix.com/sd/gulpfile.js",
+				"/var/www/sd.nyzix.com/sd/resources/views/layouts/header.blade.php",
+				"/var/www/sd.nyzix.com/sd/resources/views/tasks/tasks.blade.php",
+				"/var/www/sd.nyzix.com/sd/public/css/all.css",
+				"/var/www/sd.nyzix.com/sd/resources/assets/css/custom.css",
+				"/home/anton/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Tasks",
+					"App",
+					"User"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 88.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 217.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 933.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pho",
+						"phoneId"
+					],
+					[
+						"perf",
+						"performers"
+					],
+					[
+						"grou",
+						"group"
+					],
+					[
+						"per",
+						"performer"
+					],
+					[
+						"perfor",
+						"performers"
+					],
+					[
+						"Auth",
+						"Auth::user	Get the currently authenticated user."
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"border",
+						"border-bottom"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "Lore",
+				"selected_items":
+				[
+					[
+						"Lore",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"enable",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"packag",
+						"Package Control: Disable Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"snipp",
+						"Snippet: <?php echo $this->… ?>"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"ena",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"LiveReload: Enable/disable plugins",
+						"LiveReload: Enable/disable plug-ins"
+					]
+				],
+				"width": 575.0
+			},
+			"console":
+			{
+				"height": 68.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+			],
+			"file_history":
+			[
+				"/var/www/crm2.in-time.cc/resources/views/layouts/header.blade.php",
+				"/var/www/crm2.in-time.cc/app/Gateways.php",
+				"/var/www/crm2.in-time.cc/app/Http/routes.php",
+				"/var/www/crm2.in-time.cc/gulpfile.js",
+				"/var/www/crm2.in-time.cc/resources/views/layouts/footer.blade.php",
+				"/home/anton/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/anton/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/anton/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/anton/.config/sublime-text-3/Packages/Laravel 5 Artisan/Laravel 5 Artisan.sublime-settings",
+				"/var/www/crm2.in-time.cc/resources/views/pages/send.blade.php",
+				"/var/www/crm2.in-time.cc/resources/views/gateways/show.blade.php",
+				"/var/www/crm2.in-time.cc/app/Http/Controllers/PagesController.php",
+				"/var/www/crm2.in-time.cc/app/Http/Controllers/GatewaysController.php",
+				"/var/www/crm2.in-time.cc/resources/views/gateways/index.blade.php",
+				"/var/www/crm2.in-time.cc/resources/views/layouts/nav.blade.php",
+				"/var/www/crm2.in-time.cc/resources/views/pages/about.blade.php",
+				"/var/www/crm.in-time.cc/inc/create_sms.php",
+				"/var/www/crm2.in-time.cc/database/seeds/DatabaseSeeder.php",
+				"/var/www/crm2.in-time.cc/resources/views/pages/sms.blade.php",
+				"/var/www/crm2.in-time.cc/resources/views/layouts/app.blade.php",
+				"/var/www/crm2.in-time.cc/resources/views/gateways/edit.blade.php",
+				"/var/www/crm2.in-time.cc/resources/views/gateways/form.blade.php",
+				"/var/www/crm2.in-time.cc/database/migrations/2016_01_01_000000_create_tables.php",
+				"/var/www/crm2.in-time.cc/resources/views/gateways/create.blade.php",
+				"/var/www/crm2.in-time.cc/composer.json",
+				"/var/www/crm2.in-time.cc/app/Http/Controllers/GroupsController.php",
+				"/var/www/crm2.in-time.cc/resources/views/phones/edit.blade.php",
+				"/var/www/crm2.in-time.cc/resources/views/phones/form.blade.php",
+				"/var/www/crm2.in-time.cc/resources/views/phones/show.blade.php",
+				"/var/www/crm2.in-time.cc/public/check_balance.php",
+				"/var/www/crm2.in-time.cc/resources/views/performers/edit.blade.php",
+				"/var/www/crm2.in-time.cc/resources/views/performers/create.blade.php",
+				"/var/www/crm2.in-time.cc/resources/views/performers/form.blade.php",
+				"/var/www/crm2.in-time.cc/config/services.php",
+				"/var/www/crm2.in-time.cc/resources/views/auth/login.blade.php",
+				"/var/www/crm2.in-time.cc/config/app.php",
+				"/var/www/crm2.in-time.cc/vendor/doctrine/instantiator/src/Doctrine/Instantiator/Exception/InvalidArgumentException.php",
+				"/var/www/crm2.in-time.cc/app/Http/Controllers/PerformersController.php",
+				"/var/www/crm2.in-time.cc/config/auth.php",
+				"/var/www/crm2.in-time.cc/app/Performers.php",
+				"/var/www/crm2.in-time.cc/config/adldap.php",
+				"/var/www/crm2.in-time.cc/app/Http/Controllers/Auth/AuthController.php",
+				"/var/www/crm2.in-time.cc/vendor/laravel/framework/src/Illuminate/Auth/CreatesUserProviders.php",
+				"/var/www/crm2.in-time.cc/resources/views/phones/create.blade.php",
+				"/var/www/crm2.in-time.cc/resources/views/performers/index.blade.php",
+				"/var/www/crm2.in-time.cc/resources/assets/css/custom.css",
+				"/var/www/crm2.in-time.cc/app/Http/Controllers/PhonesController.php",
+				"/var/www/crm2.in-time.cc/resources/views/phones/index.blade.php",
+				"/var/www/crm2.in-time.cc/resources/views/tasks/index.blade.php",
+				"/var/www/crm2.in-time.cc/resources/views/sendings/index.blade.php",
+				"/var/www/crm2.in-time.cc/resources/views/groups/index.blade.php",
+				"/var/www/crm2.in-time.cc/resources/views/performers/show.blade.php",
+				"/var/www/crm2.in-time.cc/app/Phones.php",
+				"/var/www/crm2.in-time.cc/app/Http/Kernel.php",
+				"/var/www/crm2.in-time.cc/app/Console/Kernel.php",
+				"/var/www/crm2.in-time.cc/app/Http/Controllers/TasksController.php",
+				"/var/www/crm2.in-time.cc/app/Http/Controllers/SendingsController.php",
+				"/var/www/crm2.in-time.cc/app/Http/Middleware/Authenticate.php",
+				"/var/www/crm2.in-time.cc/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php",
+				"/var/www/crm2.in-time.cc/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php",
+				"/var/www/crm2.in-time.cc/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php",
+				"/var/www/crm2.in-time.cc/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php",
+				"/var/www/crm2.in-time.cc/app/Http/Middleware/VerifyCsrfToken.php",
+				"/var/www/crm2.in-time.cc/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php",
+				"/var/www/crm2.in-time.cc/app/Http/Middleware/RedirectIfAuthenticated.php",
+				"/var/www/crm2.in-time.cc/vendor/laravel/framework/src/Illuminate/Session/SessionManager.php",
+				"/var/www/crm2.in-time.cc/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php",
+				"/var/www/crm2.in-time.cc/database/factories/ModelFactory.php",
+				"/var/www/crm2.in-time.cc/.gitignore",
+				"/var/www/crm2.in-time.cc/app/Http/Controllers/Phones.php",
+				"/var/www/crm2.in-time.cc/resources/views/sendings/show.blade.php",
+				"/var/www/crm2.in-time.cc/app/Sendings.php",
+				"/var/www/crm2.in-time.cc/resources/views/sendings/edit.blade.php",
+				"/var/www/crm2.in-time.cc/resources/views/sendings/create.blade.php",
+				"/var/www/crm2.in-time.cc/resources/views/sendings/form.blade.php",
+				"/var/www/crm2.in-time.cc/resources/views/tasks/create.blade.php",
+				"/var/www/crm2.in-time.cc/resources/views/tasks/form.blade.php",
+				"/var/www/crm2.in-time.cc/resources/views/tasks/edit.blade.php",
+				"/var/www/crm2.in-time.cc/resources/views/tasks/show.blade.php",
+				"/var/www/crm2.in-time.cc/app/Tasks.php",
+				"/var/www/crm2.in-time.cc/resources/views/groups/edit.blade.php",
+				"/var/www/crm2.in-time.cc/config/session.php",
+				"/var/www/crm2.in-time.cc/public/.htaccess",
+				"/var/www/crm2.in-time.cc/app/Groups.php",
+				"/var/www/crm2.in-time.cc/resources/views/groups/form.blade.php",
+				"/var/www/crm2.in-time.cc/resources/views/groups/create.blade.php",
+				"/var/www/crm2.in-time.cc/resources/views/groups/show.blade.php",
+				"/var/www/crm2.in-time.cc/app/Roles.php",
+				"/var/www/crm2.in-time.cc/app/User.php",
+				"/var/www/crm2.in-time.cc/public/build/rev-manifest.json",
+				"/var/www/sd.nyzix.com/sd/gulpfile.js",
+				"/var/www/crm2.in-time.cc/database/migrations/2016_01_01_023710_create_groups_table.php",
+				"/var/www/crm2.in-time.cc/database/migrations/2014_10_12_000000_create_users_table (copy).php",
+				"/var/www/crm2.in-time.cc/database/migrations/2016_01_06_202148_create_performers_table.php",
+				"/var/www/crm2.in-time.cc/database/migrations/2016_01_03_073338_create_tasks_table.php",
+				"/var/www/crm2.in-time.cc/app/Http/helpers.php",
+				"/var/www/crm2.in-time.cc/database/migrations/2016_01_07_023710_create_groups_table.php",
+				"/var/www/crm2.in-time.cc/resources/views/pages/welcome.blade.php",
+				"/var/www/sd.nyzix.com/sd/resources/assets/css/custom.css",
+				"/var/www/crm2.in-time.cc/app/Http/Controllers/Performers.php",
+				"/var/www/sd.nyzix.com/sd/app/Http/routes.php",
+				"/var/www/crm2.in-time.cc/database/migrations/2016_01_06_110730_create_performers_table.php",
+				"/var/www/crm2.in-time.cc/.env",
+				"/var/www/sd.nyzix.com/sd/app/Http/Controllers/TasksController.php",
+				"/var/www/sd.nyzix.com/sd/resources/views/tasks/edit.blade.php",
+				"/var/www/sd.nyzix.com/sd/resources/views/tasks/show.blade.php",
+				"/home/anton/.config/sublime-text-3/Packages/User/bh_core.sublime-settings",
+				"/home/anton/.config/sublime-text-3/Packages/BracketHighlighter/bh_wrapping.sublime-settings",
+				"/home/anton/.config/sublime-text-3/Packages/BracketHighlighter/bh_swapping.sublime-settings",
+				"/home/anton/.config/sublime-text-3/Packages/BracketHighlighter/bh_core.sublime-settings",
+				"/home/anton/.config/sublime-text-3/Packages/BracketHighlighter/bh_tag.sublime-settings",
+				"/var/www/sd.nyzix.com/sd/database/seeds/DatabaseSeeder.php",
+				"/var/www/sd.nyzix.com/sd/resources/views/tasks/tasks.blade.php",
+				"/var/www/sd.nyzix.com/sd/app/Http/helpers.php",
+				"/var/www/sd.nyzix.com/sd/composer.json",
+				"/var/www/sd.nyzix.com/sd/resources/views/layouts/header.blade.php",
+				"/var/www/sd.nyzix.com/sd/public/css/all.css",
+				"/home/anton/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"phone",
+					"Phone",
+					"phone",
+					"username_attribute",
+					"$$",
+					"sending",
+					"		});",
+					"$record",
+					"$sending",
+					"sendings",
+					"Sendings",
+					"sendings",
+					"Sendings",
+					"task",
+					"$task",
+					"TasksController",
+					"$task",
+					"sendingsController",
+					"tasks",
+					"$group",
+					"$groups",
+					"GroupsController",
+					"groups",
+					"cook",
+					"cooke",
+					"performers",
+					"record",
+					"records",
+					"$table",
+					"$this->table.'",
+					"performer",
+					"record",
+					"PerformersController",
+					"$performer",
+					"$task",
+					"\"",
+					"$record",
+					"task",
+					"$task",
+					"Tasks",
+					"ignore_vcs_packages",
+					"Tasks",
+					"App",
+					"User"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"gateway",
+					"Gateway",
+					"gateway",
+					"$",
+					"phone",
+					"$phone",
+					"$performer",
+					"$phone",
+					"phones",
+					"Phones",
+					"phones",
+					"Phones",
+					"sending",
+					"$sending",
+					"SendingsController",
+					"$sending",
+					"SendingsController",
+					"sendings",
+					"$task",
+					"$tasks",
+					"TasksController",
+					"tasks",
+					"groups",
+					"group",
+					"groups",
+					"'groups'",
+					"'groups",
+					"group",
+					"GroupsController",
+					"$record",
+					"'",
+					"$performer",
+					"performer",
+					"$performer",
+					"Performers"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/var/www/crm2.in-time.cc"
+				},
+				{
+					"path": "/var/www/crm2.in-time.cc/app"
+				},
+				{
+					"path": "/var/www/crm2.in-time.cc/config"
+				},
+				{
+					"path": "/var/www/crm2.in-time.cc/database"
+				},
+				{
+					"path": "/var/www/crm2.in-time.cc/public"
+				},
+				{
+					"path": "/var/www/crm2.in-time.cc/resources"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 88.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,940,952",
+			"project": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"form",
+						"resources/views/performers/form.blade.php"
+					],
+					[
+						"socialite",
+						"vendor/doctrine/instantiator/src/Doctrine/Instantiator/Exception/InvalidArgumentException.php"
+					],
+					[
+						"illuminate/support/facades",
+						"vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php"
+					],
+					[
+						"facades/auth",
+						"vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php"
+					],
+					[
+						"shareerrorsfromsession",
+						"vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php"
+					],
+					[
+						"verifycsrftoken",
+						"vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php"
+					],
+					[
+						"sessionmanager",
+						"vendor/laravel/framework/src/Illuminate/Session/SessionManager.php"
+					],
+					[
+						"startsession",
+						"vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 202.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

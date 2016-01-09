@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Laravel Color Scheme/Larapaste.tmTheme",
+	"fallback_encoding": "Cyrillic (Windows 1251)",
+	"font_size": 9,
+	"highlight_modified_tabs": true,
+	"ignore_vcs_packages": true,
+	"ignored_packages":
+	[
+		"BracketHighlighter",
+		"Vintage"
+	]
+}

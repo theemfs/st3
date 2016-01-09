@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"git_binary":
+	[
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"BracketHighlighter",
+		"CodeFormatter",
+		"Emmet",
+		"HTMLBeautify",
+		"Laravel 5 Artisan",
+		"Laravel 5 Snippets",
+		"Laravel Blade Highlighter",
+		"Laravel Color Scheme",
+		"Laravel Forms Bootstrap Snippets",
+		"LiveReload",
+		"Package Control",
+		"PlainTasks",
+		"SFTP",
+		"SublimeGit",
+		"Theme - Darkmatter",
+		"Theme - Orchis",
+		"TrailingSpaces",
+		"Zen Tabs"
+	]
+}

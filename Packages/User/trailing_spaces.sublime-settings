@@ -1,0 +1,14 @@
+{
+    // By default, Trailing Spaces is "live". It means the trailing spaces
+    // regions will be matched in the background, and highlighted if a color
+    // scope is defined, when the document is opened and edited.
+    // Set to false to disable live matching and highlighting (the deletion
+    // command remains available, so-called "lazy matching").
+    "trailing_spaces_enabled" : true,
+
+    // Highlight color is specified as a scope. You may define and use a custom
+    // scope to better fit your colorscheme. A value of empty string "" will
+    // make highlights invisible.
+    "trailing_spaces_highlight_color" : "",
+    "trailing_spaces_trim_on_save": true
+}
